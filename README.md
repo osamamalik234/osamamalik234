@@ -4,7 +4,6 @@
 I'm currently working on cross-platform Applications using Flutter<br>I'm looking to collaborate on software testing<br>I'm looking for help with developing the Uber clone<br>I'm currently learning Data science and machine learning<br>Ask me about error handling in Flutter<br>Fun fact - I am passionate and truthful<br>
 
 
-[https://holopin.me/osamamalik123](https://holopin.me/osamamalik123)](https://holopin.io/@osamamalik123)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osamamalik9171) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-jawaid) 
 # 📊 GitHub Stats:
